@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,ag as o}from"./chunks/framework.C3KeHob_.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),s={name:"README.md"};function i(l,e,d,n,c,h){return t(),r("div",null,[...e[0]||(e[0]=[o("",6)])])}const _=a(s,[["render",i]]);export{u as __pageData,_ as default};
